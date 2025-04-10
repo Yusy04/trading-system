@@ -1,0 +1,2 @@
+verde default: #32CD32
+verde hover: #00ff7f
